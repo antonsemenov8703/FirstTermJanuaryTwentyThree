@@ -1,4 +1,5 @@
-//package HomeWorks;
+package Lections;
+
 //
 //import java.io.File;
 //
@@ -16,11 +17,14 @@
 //import java.util.HashMap;
 //import java.util.Map;
 //import java.util.Map.Entry;
+
+
+public class Zametki {
+
+
+
 //
 //
-//
-//
-//public class Task02_0 {
 //
 ////Напишите программу, которая принимает с консоли число в формате byte и записывает его в файл ”result.txt”.
 ////Требуется перехватить все возможные ошибки и вывести их в логгер.
@@ -104,3 +108,9 @@
 //    }
 //
 //}
+
+
+
+
+}
+
