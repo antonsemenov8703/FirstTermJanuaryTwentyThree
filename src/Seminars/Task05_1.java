@@ -12,7 +12,7 @@ public class Task05_1 {
     // пример 3:  In: arr = [1, 1, 1, 2, 2]  Out: 4
 
     public static void main(String[] args) {
-        ArrayList<Integer> arr = new ArrayList<>(Arrays.asList(1, 1, 2));
+        ArrayList<Integer> arr = new ArrayList<>(Arrays.asList(1, 1, 1, 2, 2));
         System.out.println(getNumberOfCouples(arr));
         }
 
